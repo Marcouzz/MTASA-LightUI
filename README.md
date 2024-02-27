@@ -7,7 +7,7 @@ NativeUI: https://github.com/Allerek/MTASA-NativeUI
 
 **Screen:**
 
-![Menu Image](https://github.com/Marcouzz/MTASA-LightUI/blob/master/menuimg.png)
+![Menu Image](https://github.com/Marcouzz/MTASA-LightUI/blob/main/menuimg.png)
 
 ## Client Functions
 
